@@ -23,6 +23,7 @@
 }
 body{
     font-family: var(--roboto);
+    
 }
 
 /* Navbar*/
@@ -66,3 +67,25 @@ span:hover{
       color: green;
       pointer-events: none;
     }
+
+    .titulares{
+        font-size: var(--titulares);
+    }
+
+    .bg-custom-section{
+        background-color: var(--gris-claro);
+    }
+    .info-card {
+      border-radius: 12px;
+      padding: 20px;
+    }
+    .info-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .info-item i {
+      font-size: 24px;
+      color: var(--morado);
+    }
+
