@@ -27,6 +27,7 @@ body{
 }
 
 /* Navbar*/
+
 .nav-logo{
     width: 120px;
 }
@@ -65,8 +66,10 @@ span:hover{
       top: 50%;
       transform: translateY(-50%);
       color: green;
-      pointer-events: none;
+      
     }
+
+    /*Beneficios*/
 
     .titulares{
         font-size: var(--titulares);
@@ -88,4 +91,3 @@ span:hover{
       font-size: 24px;
       color: var(--morado);
     }
-
