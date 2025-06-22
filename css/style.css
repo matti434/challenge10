@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nuevo {
+  background-color: #28a745;
+  color: white;
+  font-size: 0.8rem;
+}
+.camion{
+    background-color: rgb(13, 202, 240);
+}
+.descuento1 {
+    
+    background-color: rgb(25, 135, 84);
+}
+.contenedor-vendedor{
+    background-color: rgb(248, 249, 250);
+}
